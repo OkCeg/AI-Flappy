@@ -3,7 +3,7 @@ Translated Code Bullet's AI Flappy Bird from JavaScript to C# in Unity.
 
 This was mainly to get me started with AI, so credit for the code goes to Code Bullet.
 
-The C# version I made: https://tbbm.itch.io/
+The C# Unity version I made: https://tbbm.itch.io/
 
 Code Bullet's original video: https://www.youtube.com/watch?v=WSW-5m8lRMs
 
